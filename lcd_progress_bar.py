@@ -2,7 +2,7 @@ import rpi_lcd as lcd
 from time import sleep
 from random import *
 from os import system
-system("clear")
+system("bash clear")
 screen=lcd.LCD()
 screen.text("Progress:", 1)
 
