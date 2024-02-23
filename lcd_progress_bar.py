@@ -19,7 +19,7 @@ for i in range(0, MAX_SCREEN_DIGITS):
     sleep(uniform(0.0625, 3))
 
 
-print("\n")
+print("Progress: #################|\n")
 screen.clear()
 
 
